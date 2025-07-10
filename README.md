@@ -74,6 +74,12 @@ sub_module16/
 🔗 [LinkedIn: linkedin.com/in/advaithag47](https://linkedin.com/in/advaithag47)
 
 ---
+## Acknowledgments
+
+I would like to express my sincere gratitude to **Prof. [DR MAHESH]** for giving me the opportunity to undertake this project.  
+Their guidance and encouragement helped me explore open-source EDA tools like **OpenLane**, and gain practical exposure to VLSI digital design workflows.
+
+
 
 ### ⭐ Tip:  
 If you find this project helpful, feel free to star ⭐ the repository or fork it for your own RTL-to-GDSII experiments.
