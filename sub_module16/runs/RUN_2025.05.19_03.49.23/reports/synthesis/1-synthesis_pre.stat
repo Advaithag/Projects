@@ -1,0 +1,25 @@
+
+49. Printing statistics.
+
+=== sub_module16 ===
+
+   Number of wires:               5168
+   Number of wire bits:           5775
+   Number of public wires:          66
+   Number of public wire bits:     673
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               5620
+     $_ANDNOT_                    1981
+     $_AND_                         47
+     $_DFFE_PP_                     64
+     $_MUX_                        192
+     $_NAND_                       102
+     $_NOR_                        593
+     $_NOT_                        443
+     $_ORNOT_                      255
+     $_OR_                        1385
+     $_XNOR_                       162
+     $_XOR_                        396
+

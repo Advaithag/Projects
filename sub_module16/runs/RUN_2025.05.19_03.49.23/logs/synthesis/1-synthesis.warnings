@@ -1,0 +1,4 @@
+Warning: Replacing memory \mem2 with list of registers. See /openlane/designs/sub_module16/src/sub_module16.v:36
+Warning: Replacing memory \mem1 with list of registers. See /openlane/designs/sub_module16/src/sub_module16.v:27
+ABC: Warning: Detected 2 multi-output gates (for example, "sky130_fd_sc_hd__fa_1").
+Warnings: 2 unique messages, 2 total

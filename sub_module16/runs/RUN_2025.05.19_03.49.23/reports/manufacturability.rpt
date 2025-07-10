@@ -1,0 +1,19 @@
+Design Name: sub_module16
+Run Directory: /openlane/designs/sub_module16/runs/RUN_2025.05.19_03.49.23
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/sub_module16/runs/RUN_2025.05.19_03.49.23/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/sub_module16/runs/RUN_2025.05.19_03.49.23/logs/signoff/38-sub_module16.lef.lvs.log
+Number of nets: 3609                       |Number of nets: 3609                       
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/sub_module16/runs/RUN_2025.05.19_03.49.23/logs/signoff/41-arc.log
+Pin violations: 24
+Net violations: 24
